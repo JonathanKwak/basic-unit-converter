@@ -3,6 +3,7 @@ Just a very basic application using the built-in TKinter to convert units.
 
 # Features
 - Detects invalid inputs (i.e, "asdagafgsfd" isn't a number and hence cannot be converted)
+- Sets the visibility of the 'Convert' button based on if the current input is a valid number
 - Converts things. Duh.
 
 # Limitations
